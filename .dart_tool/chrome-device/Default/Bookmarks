@@ -1,0 +1,103 @@
+{
+   "checksum": "6e92202d42dee1773002af1247323005",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13219762967740151",
+            "date_last_used": "0",
+            "guid": "e2610478-ebc8-435f-9cd2-eafa29deac57",
+            "id": "7",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13306220895331716",
+            "date_last_used": "13352024570596438",
+            "guid": "066da310-42f6-4d2a-9eb9-558359ad4481",
+            "id": "8",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13339132816290362",
+            "date_last_used": "0",
+            "guid": "11c6d88c-04b0-4592-8bc6-fd55f7db5582",
+            "id": "9",
+            "name": "Microsoft Learn: Build skills that open doors in your career",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://learn.microsoft.com/en-us/"
+         }, {
+            "date_added": "13339132869393833",
+            "date_last_used": "0",
+            "guid": "3d14c5a2-487c-4cf9-8827-27a489dd4b54",
+            "id": "10",
+            "name": "Microsoft Azure",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://portal.azure.com/#home"
+         }, {
+            "children": [  ],
+            "date_added": "13346954056989327",
+            "date_last_used": "0",
+            "date_modified": "13346954056989327",
+            "guid": "345b15dc-df7b-4502-a8ac-89e041cc16b9",
+            "id": "11",
+            "name": "New folder",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13352017533205120",
+            "date_last_used": "0",
+            "guid": "6b13919d-eb1c-4354-84c7-e4b8f3b035a1",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Copilot",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://copilot.microsoft.com/"
+         } ],
+         "date_added": "13352196565469594",
+         "date_last_used": "0",
+         "date_modified": "13352017533205120",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13352196565469603",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13352196565469607",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCDYGOpyNAQAAEgAgASoYTnBwNUFDMk9WcExORkhmMmQ4MHVoUT09oAYMEqkBCAwSpAEKHGZPTktYTW9XVExUa0hDVlRFc0QrdHFpVUJQbz0SJDZiMTM5MTlkLWViMWMtNDM1NC04NGM3LWU0YjhmM2IwMzVhMRgAIAAoADDHu7OM2TE4iPuyjNkxQIj7sozZMUocblJZbnZmVjgrTXlPY3didU9MRFRGVVZLMS9VPVogIh7//WJtbTgvKy9haEh3dVlIWlR3cW5nc2ZnWjNwQT1lw6ezpRKpAQgLEqQBChx2cDlHZjg2ekVOSmFUbUg1djNidjUzU2daakU9EiQzNDViMTVkYy1kZjdiLTQ1MDItYThhYy04OWUwNDFjYzE2YjkYACAAKAAwlez4ncYxONXt+J3GMUDV7fidxjFKHG5YMkZDeW82c2JDc0orOXNPUnh4MWJHTWtOdz1aICIe//t6K3BDalRMSm5zLzZUNTlIYm9pekFFd2lNeE09ZQAAAAASpwEIBxKiAQocL1BSME0xcmk0SWxTRFFFVnpvUlpIcXVQQjJjPRIkZTI2MTA0NzgtZWJjOC00MzVmLTljZDItZWFmYTI5ZGVhYzU3GAAgAigCMOaC5uHZMTjb89GLqTFAspPl4dkxShxtRkFYWWVqQ2NLSnJiZGd2TTlmWkdoWkc4T2M9Wh4iHGc2LzlFSFJadDdrZTJucEt0bkxnSEYwRnJLOD1lOPk5MxKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQxZTM3Njk0MS0zYjY2LTU5Y2EtOTRhMy04OTJkMGZhYTIzYTcYACAAKAAw1rGDnLAwOJbZ4NTnL0CW2eDU5y9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqkBCAoSpAEKHFBNNmx5NlpqRHhjdndDTnN0SzFZSjJHeExNcz0SJDNkMTRjNWEyLTQ4N2MtNGNmOS04ODI3LTI3YTQ4OWRkNGI1NBgAIAAoADC+xZyx0DE4v8PBjKkxQL/DwYypMUocdkZlVm9lUGZUVk15QlEwbDY5ZDBPK2c0dXU0PVogIh7/93RHd2FrdUdKL1A4bVFFb2lTUnBENnNIM002WT1l0qFsXhKpAQgJEqQBChxtZUx6TlpiV09TcG5QNmJTcjllNW0vL1dGWU09EiQxMWM2ZDg4Yy0wNGIwLTQ1OTItOGJjNi1mZDU1ZjdkYjU1ODIYACACKAIw5YLm4dkxOMapvoypMUCzk+Xh2TFKHGJ3RGZxWExLUUhoa0t6RFo4SmhGeWNhRVZaOD1aICIe/+5VYjlBQnREeURVclFQYndZcnN0VjFUMkFDazg9Zacc0hkSiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkYmNmMzJmZWUtNDQxZi01ZDM4LWI3NDMtNjUzMmU5OWMzMmMyGAAgACgAMNaxg5ywMDim2eDU5y9Aptng1OcvShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKoAQgIEqMBChxIV1B0UkpCWDA1UmhscGFRQVVFNHdJc0ZESmc9EiQwNjZkYTMxMC00MmY2LTRkMmEtOWViOS01NTgzNTlhZDQ0ODEYACACKAIw5ILm4dkxOIrEpc6DMUCyk+Xh2TFKHDQxRlRWMWtQYS9uL2ZrMWJyMG1jUzAvNUUvcz1aHyIdqDNiWERXSmJ0V0gyRkIwbG9CaHgwMkM4ZjdGWT1lmz2FthKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ3ODNlOGY3ZC1iMWU1LTVkNWUtODNiNC1kN2VlYmM1YjEwNmIYACAAKAAw1rGDnLAwOKPa4NTnL0Cj2uDU5y9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAA4AA==",
+   "version": 1
+}
